@@ -1,11 +1,11 @@
 ## Git command shortcut scripts
 ```
-ga.bat             == git add .
-gb.bat             == git branch
-gc.bat [message]   == git commit -m [message]
-gcb.bat [branch]   == git checkout [branch] 
-gcnb.bat [branch]  == git checkout -b [branch]
-gpob.bat [branch]  == git push origin [branch]
-gpom.bat           == git push origin master
-gs.bat             == git status
+ga.[bat|sh]             == git add .
+gb.[bat|sh]             == git branch
+gc.[bat|sh] <message>   == git commit -m <message>
+gcb.[bat|sh] <branch>   == git checkout <branch> 
+gcnb.[bat|sh] <branch>  == git checkout -b <branch>
+gpob.[bat|sh] <branch>  == git push origin <branch>
+gpom.[bat|sh]           == git push origin master
+gs.[bat|sh]             == git status
 ```
