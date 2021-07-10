@@ -1,4 +1,4 @@
-***Git command shortcut scripts
+## Git command shortcut scripts
 ```
 ga.bat     == git add .
 gb.bat     == git branch
