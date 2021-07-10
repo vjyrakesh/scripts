@@ -1,5 +1,5 @@
 @echo off
 echo                         *******************************
-echo                         Git checking out to branch: %1
+echo                         Git push to %1 branch of origin
 echo                         *******************************
-git checkout %1
+git push origin %1
